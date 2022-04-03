@@ -1,2 +1,4 @@
 # Zmos
 Zmos 
+
+▶apt update 
